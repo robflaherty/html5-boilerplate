@@ -15,7 +15,11 @@
 .project
 .settings
 nbproject
-thumb.db
+thumbs.db
+
+# Dreamweaver added files
+_notes
+dwsync.xml
 
 # Folders to ignore
 .hg
@@ -23,5 +27,6 @@ thumb.db
 publish
 .idea
 
-# files
+# build script local files
 build/buildinfo.properties
+build/config/buildinfo.properties
